@@ -200,7 +200,7 @@ ppt 자료: https://drive.google.com/file/d/1KGMfiT-OQpeEE4wwmUJg4TsGUAtyDQ32/vi
 ```
 UCC: https://drive.google.com/file/d/1IWZLK2Kx22yCSVlsHReYPQaXrGsl-NgR/view?usp=sharing
 
-최종 ppt: https://docs.google.com/presentation/d/1shVhlIhsxN9V1Hzay55PwE47-LzFTyj5/edit?usp=sharing&ouid=104755432594470438671&rtpof=true&sd=true
+최종 ppt: https://docs.google.com/presentation/d/1QJiNPAUp9Eozd3pj-xJ05oBwHPryRczJ/edit?usp=sharing&ouid=104755432594470438671&rtpof=true&sd=true
  
 ```
 
